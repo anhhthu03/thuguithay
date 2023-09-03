@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BTLyThuyet
 {
-    internal class Bai3_Continue_Example
+    internal class Bai3ContinueExample
     {
         static void Main(string[] args)
         {
