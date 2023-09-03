@@ -23,7 +23,7 @@ namespace BTLyThuyet2
                     Console.Write("Basic");
                     break;
                 default:
-                    Console.Write("none");
+                    Console.Write("not found");
                     break;
             }
             Console.Read();
